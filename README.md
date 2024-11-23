@@ -10,7 +10,7 @@
 
 # Result of project
 * <h2>Home page</h2>
-> ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png) 
+> ![home.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/home.png) 
 * <h2>Login page</h2>
 > ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png)
 * <h2>Create Event page</h2>
