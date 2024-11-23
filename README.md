@@ -12,20 +12,20 @@
 * <h2>Home page</h2>
   <img src="https://github.com/tnppp1122/EventSpark_project/blob/main/pic/home.png"/>
  
-* Login page
-  > ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png)
-* Create Event page
-  > ![create.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/create.png) <hr>
-    ![created.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/created.png) 
-* Reservation page
+* <h2>Login page</h2>
+> ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png)
+* <h2>Create Event page</h2>
+> ![create.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/create.png) <hr>
+  ![created.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/created.png) 
+* <h2>Reservation page</h2>
   > ![panel.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/panel.png)
-* Offer page
-  > ![offer.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer.png) <hr>
-    ![offer3.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer3.png) <hr>
-    ![offer5.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer5.png)
-* Booking form page
-  > ![booking_form.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/booking_form.png)
-* Confirm page
-  > ![confirm.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/confirm.png)
+* <h2>Offer page</h2>
+> ![offer.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer.png) <hr>
+  ![offer3.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer3.png) <hr>
+  ![offer5.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer5.png)
+* <h2>Booking form page</h2>
+> ![booking_form.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/booking_form.png)
+* <h2>Confirm page</h2>
+> ![confirm.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/confirm.png)
 
     
