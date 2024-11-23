@@ -19,8 +19,8 @@
 * Reservation page
   > ![panel.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/panel.png)
 * Offer page
-  > ![offer.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer.png)
-    ![offer3.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer3.png)
+  > ![offer.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer.png) <hr>
+    ![offer3.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer3.png) <hr>
     ![offer5.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer5.png)
 * Booking form page
   > ![booking_form.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/booking_form.png)
