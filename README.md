@@ -10,16 +10,21 @@
 
 # Result of project
 * Home page
-    * pic
+    * ![home.png]([https://github.com/tnppp1122/](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/home.png)
 * Login page
-    * pic
+    * ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png)
 * Create Event page
-    * pic
+    * ![created.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/created.png) 
+    * ![create.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/create.png)
 * Reservation page
-    * pic
+    * ![panel.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/panel.png)
 * Offer page
-    * ![offer3.png](https://github.com/tnppp1122/)
+    * ![offer.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer.png)
+    * ![offer3.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer3.png)
+    * ![offer5.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer5.png)
 * Booking form page
-    * pic
+    * ![booking_form.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/booking_form.png)
+* Confirm page
+    * ![confirm.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/confirm.png)
 
     
