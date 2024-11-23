@@ -14,8 +14,8 @@
 * Login page
   > ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png)
 * Create Event page
-  > ![created.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/created.png) 
-    ![create.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/create.png)
+  > ![create.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/create.png) <hr>
+    ![created.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/created.png) 
 * Reservation page
   > ![panel.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/panel.png)
 * Offer page
