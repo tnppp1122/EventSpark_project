@@ -10,15 +10,14 @@
 
 # Result of project
 * <h2>Home page</h2>
-  <img src="https://github.com/tnppp1122/EventSpark_project/blob/main/pic/home.png"/>
- 
+> ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png) 
 * <h2>Login page</h2>
 > ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png)
 * <h2>Create Event page</h2>
 > ![create.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/create.png) <hr>
   ![created.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/created.png) 
 * <h2>Reservation page</h2>
-  > ![panel.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/panel.png)
+> ![panel.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/panel.png)
 * <h2>Offer page</h2>
 > ![offer.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer.png) <hr>
   ![offer3.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/offer3.png) <hr>
