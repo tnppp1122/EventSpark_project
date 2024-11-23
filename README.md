@@ -10,7 +10,7 @@
 
 # Result of project
 * Home page
-    * ![home.png]([https://github.com/tnppp1122/](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/home.png)
+    * ![home.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/home.png)
 * Login page
     * ![login.png](https://github.com/tnppp1122/EventSpark_project/blob/main/pic/login.png)
 * Create Event page
